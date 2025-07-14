@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm a Web Developer who enjoys building clean, responsive, and dynamic websites and applications.<br><br>- 🔭 Currently working on: Full-stack projects with React, NodeJS and MongoDB<br>-🤖 Diving deeper into TypeScript</p>
+<p align="left">I'm a Web Developer who enjoys building clean, responsive, and dynamic websites and applications.<br><br>- 🔭 Currently working on: Full-stack projects with React, NodeJS and MongoDB<br>-🤖 Diving deeper into TypeScript and Machine Learning</p>
 
 ###
 
