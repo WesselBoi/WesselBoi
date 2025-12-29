@@ -153,22 +153,21 @@ If you’d like to collaborate or discuss technical topics, feel free to reach o
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
 	
+![](https://github-readme-stats.vercel.app/api?username=WesselBoi&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=WesselBoi&theme=highcontrast&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=WesselBoi&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=WesselBoi&icon=0&color=0)](https://visitcount.itsvg.in)
   <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wesselboi&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesselboi&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</details>
+	
+  <br />
 </details>
 
 <details>	
-  <summary><b>☄️ Github Streaks</b></summary>
-
-  <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=wesselboi&hide_border=true" />
-</details>
- 
-<details>	
-  <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
-  	<ul>
+	<ul>
   	    <li><b>OS:</b> macOS Sequoia</li>
 	    <li><b>Laptop: </b> MacBook Pro 2019</li>
   	    <li><b>Browser: </b> Chrome and Safari</li>
@@ -176,10 +175,6 @@ If you’d like to collaborate or discuss technical topics, feel free to reach o
 	    <li><b>Code Editor:</b> VSCode</li>
 	    <li><b>To Stay Updated:</b>Linkedin, Twitter, Instagram and Youtube.</li>
 	</ul>	
+  <br />
 </details>
-
-#
-
-<div align="center">
-</div>
 
