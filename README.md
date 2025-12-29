@@ -23,7 +23,7 @@ If you’d like to collaborate or discuss technical topics, feel free to reach o
 
 ## 🌐 You can find me on :
 <p>
-  <a href="www.linkedin.com/in/saksham-mathur-a416a1323" target="_blank"><img alt="wesselboi LinkedIn profile" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="13%"></a>
+  <a href="https://www.linkedin.com/in/saksham-mathur-a416a1323" target="_blank"><img alt="wesselboi LinkedIn profile" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="13%"></a>
   <a href="https://discordapp.com/users/702812974569488424" target="_blank"><img alt="wesselboi discord profile" src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="13%"></a>
 </p>
 
