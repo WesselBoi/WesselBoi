@@ -13,6 +13,7 @@ Here’s a brief overview of my profile.
 
 I work on building practical projects and improving my understanding of software systems.
 <br>
+
 My experience includes <b>web development (React (along with native) & Next.js)</b>, 
 <b>backend development (Node.js, Express, MongoDB)</b>, and <b>machine learning</b>, including NLP-based models.
 I also have experience tutoring Computer Science and creating structured learning material.
