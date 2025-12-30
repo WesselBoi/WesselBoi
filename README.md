@@ -32,9 +32,9 @@ If you’d like to collaborate or discuss technical topics, feel free to reach o
 <h3><i>Languages:</i></h3>
 <table>
 <tr>
-  <td align="center" width="110"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48"/><br>JavaScript</td>
+  <td align="center" width="110"><img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="48"/><br>JavaScript</td>
   <td align="center" width="110"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48"/><br>TypeScript</td>
-  <td align="center" width="110"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48"/><br>Python</td>
+  <td align="center" width="110"><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="48"/><br>Python</td>
   <td align="center" width="110"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="48"/><br>C</td>
   <td align="center" width="110"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48"/><br>C++</td>
 </tr>
@@ -45,15 +45,15 @@ If you’d like to collaborate or discuss technical topics, feel free to reach o
 <table>
 <tr>
   <td align="center" width="110">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="48"/>
+    <img src="https://private-user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjcwOTgzNzEsIm5iZiI6MTc2NzA5ODA3MSwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA0MjYtMjlmZDYyODYtNGU3Yi00ZDZjLTgxOGYtYzQ3NjVkNWUzOWE5LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEyMzAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMjMwVDEyMzQzMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWEwZmQyZWI1YTUzNzAwMGUxMTEwOGI5MTFmNzE3NjViOTYyMmZhOTMyNjUyYTQyODE3ZTIxNDZmYzc4YjMwZjYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.AuDgXwCu6frZNN84NI_-Ly6yt0N6NB4_iy_VY0ifnxo" width="48"/>
     <br>HTML5
   </td>
   <td align="center" width="110">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="48"/>
+    <img src="https://private-user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjcwOTgzNzEsIm5iZiI6MTc2NzA5ODA3MSwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA0MjgtNjdmNDc3ZWQtNjYyNC00MmRhLTk5ZjAtMWE3YjFhMTZlZWNiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEyMzAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMjMwVDEyMzQzMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTgyMGQ0MzVmZDcyN2ZkYWRmMTQwODJhN2Q4NWI4NzFhZTU3Nzg3MmYyZjZlOGY2ZDE4MmU1OWY0Y2E2ZmY3MGYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.BmsMhJsQRJLkFwIWcT-TqdUbySCDVllu6yvNk3VC_Js" width="48"/>
     <br>CSS3
   </td>
   <td align="center" width="110">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48"/>
+    <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="48"/>
     <br>React
   </td>
   <td align="center" width="110">
@@ -80,7 +80,7 @@ If you’d like to collaborate or discuss technical topics, feel free to reach o
     <br>Tailwind
   </td>
   <td align="center" width="110">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="48"/>
+    <img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" width="48"/>
     <br>Bootstrap
   </td>
 </tr>
