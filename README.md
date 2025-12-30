@@ -91,7 +91,7 @@ If you’d like to collaborate or discuss technical topics, feel free to reach o
 <h3><i>Backend:</i></h3>
 <table>
 <tr>
-  <td align="center" width="110"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48"/><br>Node.js</td>
+  <td align="center" width="110"><img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="48"/><br>Node.js</td>
   <td align="center" width="110"><img src="https://logowik.com/content/uploads/images/express-js1720895493.logowik.com.webp" width="48"/><br>Express</td>
   <td align="center" width="110"><img src="https://cdn.buttercms.com/w8lc0UqsQCnPG0Ax6aiM" width="48"/><br>Flask</td>
 </tr>
@@ -101,7 +101,7 @@ If you’d like to collaborate or discuss technical topics, feel free to reach o
 <h3><i>Databases:</i></h3>
 <table>
 <tr>
-  <td align="center" width="110"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="48"/><br>MongoDB</td>
+  <td align="center" width="110"><img src="https://private-user-images.githubusercontent.com/74038190/238200620-398b19b1-9aae-4c1f-8bc0-d172a2c08d68.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjcwOTgzNzEsIm5iZiI6MTc2NzA5ODA3MSwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA2MjAtMzk4YjE5YjEtOWFhZS00YzFmLThiYzAtZDE3MmEyYzA4ZDY4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEyMzAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMjMwVDEyMzQzMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTMzNDc3NWEzZTUxMmRkNzE3OThlZjE3NzQ5ZWJlZDQ1NjA0Y2UzMTk4NWY2M2ExMzBlNzQyNjI3ODJlNTQ0NzkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.rKkyNL1WFH10fcKJRPVjnyx4GtPuqBgaHdb_TRZmsX4" width="48"/><br>MongoDB</td>
   <td align="center" width="110"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="48"/><br>PostgreSQL</td>
   <td align="center" width="110"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48"/><br>MySQL</td>
 </tr>
