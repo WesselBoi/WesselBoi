@@ -102,7 +102,7 @@ If you’d like to collaborate or discuss technical topics, feel free to reach o
 <table>
 <tr>
   <td align="center" width="110"><img src="https://private-user-images.githubusercontent.com/74038190/238200620-398b19b1-9aae-4c1f-8bc0-d172a2c08d68.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjcwOTgzNzEsIm5iZiI6MTc2NzA5ODA3MSwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA2MjAtMzk4YjE5YjEtOWFhZS00YzFmLThiYzAtZDE3MmEyYzA4ZDY4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEyMzAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMjMwVDEyMzQzMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTMzNDc3NWEzZTUxMmRkNzE3OThlZjE3NzQ5ZWJlZDQ1NjA0Y2UzMTk4NWY2M2ExMzBlNzQyNjI3ODJlNTQ0NzkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.rKkyNL1WFH10fcKJRPVjnyx4GtPuqBgaHdb_TRZmsX4" width="48"/><br>MongoDB</td>
-  <td align="center" width="110"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="48"/><br>PostgreSQL</td>
+  <td align="center" width="110"><img src="https://miro.medium.com/v2/resize:fit:500/1*rAj9qt_OnWXCAlbJyUrhlw.gif" width="90"/><br>PostgreSQL</td>
   <td align="center" width="110"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48"/><br>MySQL</td>
 </tr>
 </table>
@@ -111,15 +111,15 @@ If you’d like to collaborate or discuss technical topics, feel free to reach o
 <h3><i>Tools & Workflow:</i></h3>
 <table>
 <tr>
-  <td align="center" width="110"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48"/><br>Git</td>
+  <td align="center" width="110"><img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="48"/><br>Git</td>
   <td align="center" width="110"><img src="https://cdn.iconscout.com/icon/free/png-256/free-github-logo-icon-svg-download-png-8630395.png?f=webp" width="48"/><br>GitHub</td>
   <td align="center" width="110"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width="48"/><br>npm</td>
   <td align="center" width="110"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="48"/><br>Postman</td>
-  <td align="center" width="110"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="48"/><br>VS Code</td>
+  <td align="center" width="110"><img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="48"/><br>VS Code</td>
 </tr>
 <tr>
   <td align="center" width="110"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" width="48"/><br>Vite</td>
-  <td align="center" width="110"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" width="48"/><br>Blender</td>
+  <td align="center" width="110"><img src="https://images.steamusercontent.com/ugc/2440466670434568687/9A5386B26BA1B0416A022946EF72980A829717A4/" width="90"/><br>Blender</td>
 </tr>
 </table>
 
@@ -127,7 +127,7 @@ If you’d like to collaborate or discuss technical topics, feel free to reach o
 <table>
 <tr>
   <td align="center" width="110">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48"/>
+    <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="48"/>
     <br>Python
   </td>
   <td align="center" width="110">
