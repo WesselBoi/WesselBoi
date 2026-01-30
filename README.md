@@ -49,7 +49,7 @@ If you’d like to collaborate or discuss technical topics, feel free to reach o
     <br>HTML5
   </td>
   <td align="center" width="110">
-    <img src="https://private-user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjcwOTgzNzEsIm5iZiI6MTc2NzA5ODA3MSwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA0MjgtNjdmNDc3ZWQtNjYyNC00MmRhLTk5ZjAtMWE3YjFhMTZlZWNiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEyMzAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMjMwVDEyMzQzMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTgyMGQ0MzVmZDcyN2ZkYWRmMTQwODJhN2Q4NWI4NzFhZTU3Nzg3MmYyZjZlOGY2ZDE4MmU1OWY0Y2E2ZmY3MGYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.BmsMhJsQRJLkFwIWcT-TqdUbySCDVllu6yvNk3VC_Js" width="48"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="48"/>
     <br>CSS3
   </td>
   <td align="center" width="110">
