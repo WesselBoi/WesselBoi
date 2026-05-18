@@ -175,7 +175,7 @@ If you’d like to collaborate or discuss technical topics, feel free to reach o
   	    <li><b>Browser: </b> Chrome and Safari</li>
 	    <li><b>Terminal: </b> ZSH</li>
 	    <li><b>Code Editor:</b> VSCode</li>
-	    <li><b>To Stay Updated:</b>Linkedin, Twitter, Instagram and Youtube.</li>
+	    <li><b>To Stay Updated:</b>Linkedin, X, Instagram and Youtube.</li>
 	</ul>	
   <br />
 </details>
